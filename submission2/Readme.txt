@@ -1,9 +1,8 @@
-
 Link to unlisted YouTube video:
-https://www.youtube.com/
+https://youtu.be/7aUW0L7BnfI
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1i6JdTs25BXhkbveo9x4yyNNkkZR_q9utiyDiHoLnjOo/edit?usp=sharing
+https://docs.google.com/presentation/d/1i6JdTs25BXhkbveo9x4yyNNkkZR_q9utiyDiHoLnjOo/edit#slide=id.g25f5af40f3e_1_55
 
 Paper title:
 CryptoGA: a cryptosystem based on genetic algorithm for cloud data security
